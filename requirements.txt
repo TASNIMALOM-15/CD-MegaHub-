@@ -1,0 +1,9 @@
+telethon>=1.36
+cryptg
+pycryptodome
+requests
+pymongo[srv]
+cryptography
+aiohttp
+hachoir
+imageio-ffmpeg
